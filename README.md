@@ -8,7 +8,7 @@ Once you clone the repo you can run:
 
 ```
 $ npm install
-$ npm start
+$ npm run dev
 ```
 
 The app will start on `localhost:3000`.
